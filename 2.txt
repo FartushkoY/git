@@ -1,0 +1,4 @@
+     UID     PID    PPID  TTY        STIME COMMAND
+    User    1802       1 ?        11:05:34 /usr/bin/mintty
+    User    1803    1802 pty0     11:05:34 /usr/bin/bash
+    User    1918    1803 pty0     11:43:02 /usr/bin/ps
